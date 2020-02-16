@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+
+  int number;
+  
+  printf("pls enter the number that u want\n");
+  scanf("%d",&number);
+  printf("%d",number);
+  
+  getch();
+  return 0;
+	
+	
+}
